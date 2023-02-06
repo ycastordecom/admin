@@ -1,0 +1,163 @@
+Date : 2023-01-18 14:30:33
+Directory : /Users/ludekun/Desktop/admin
+Total : 98 files,  39349 codes, 190 comments, 271 blanks, all 39810 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          2 |     31,335 |          0 |          2 |     31,337 |
+| vue                |         26 |      4,751 |         15 |         66 |      4,832 |
+| TypeScript React   |         11 |      1,144 |         70 |         37 |      1,251 |
+| TypeScript         |         30 |        999 |         93 |         77 |      1,169 |
+| Less               |         11 |        521 |          2 |         67 |        590 |
+| CSS                |         11 |        509 |          0 |         11 |        520 |
+| JavaScript         |          3 |         34 |          2 |          3 |         39 |
+| Markdown           |          1 |         19 |          0 |          6 |         25 |
+| JSON with Comments |          1 |         18 |          7 |          0 |         25 |
+| HTML               |          1 |         16 |          1 |          1 |         18 |
+| XML                |          1 |          3 |          0 |          1 |          4 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                 | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                    |         98 |     39,349 |        190 |        271 |     39,810 |
+| . (Files)                                                                            |          8 |     31,413 |          9 |         12 |     31,434 |
+| mock                                                                                 |          3 |         74 |         12 |          4 |         90 |
+| mock (Files)                                                                         |          2 |         38 |         12 |          3 |         53 |
+| mock/page                                                                            |          1 |         36 |          0 |          1 |         37 |
+| public                                                                               |          2 |         19 |          1 |          2 |         22 |
+| public (Files)                                                                       |          1 |         16 |          1 |          1 |         18 |
+| public/img                                                                           |          1 |          3 |          0 |          1 |          4 |
+| public/img/icons                                                                     |          1 |          3 |          0 |          1 |          4 |
+| src                                                                                  |         85 |      7,843 |        168 |        253 |      8,264 |
+| src (Files)                                                                          |          4 |         72 |          2 |          8 |         82 |
+| src/api                                                                              |          8 |        172 |         37 |         21 |        230 |
+| src/api (Files)                                                                      |          4 |         75 |         27 |         14 |        116 |
+| src/api/page                                                                         |          4 |         97 |         10 |          7 |        114 |
+| src/components                                                                       |         36 |      2,452 |         72 |        122 |      2,646 |
+| src/components (Files)                                                               |          3 |        278 |          0 |          7 |        285 |
+| src/components/good                                                                  |          9 |        761 |         59 |         37 |        857 |
+| src/components/index                                                                 |         12 |        888 |          5 |         46 |        939 |
+| src/components/kami                                                                  |          3 |        101 |          1 |          9 |        111 |
+| src/components/publicity                                                             |          3 |         87 |          0 |          5 |         92 |
+| src/components/shop                                                                  |          3 |        200 |          0 |         13 |        213 |
+| src/components/user                                                                  |          3 |        137 |          7 |          5 |        149 |
+| src/hooks                                                                            |          3 |        326 |         19 |         15 |        360 |
+| src/router                                                                           |          1 |        135 |          0 |          4 |        139 |
+| src/store                                                                            |          2 |         20 |          0 |          4 |         24 |
+| src/store (Files)                                                                    |          1 |          3 |          0 |          3 |          6 |
+| src/store/modules                                                                    |          1 |         17 |          0 |          1 |         18 |
+| src/type                                                                             |          8 |        210 |         23 |         21 |        254 |
+| src/type (Files)                                                                     |          3 |         22 |          3 |          3 |         28 |
+| src/type/page                                                                        |          5 |        188 |         20 |         18 |        226 |
+| src/utils                                                                            |          1 |          1 |          0 |          1 |          2 |
+| src/views                                                                            |         22 |      4,455 |         15 |         57 |      4,527 |
++--------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                             | language           | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| /Users/ludekun/Desktop/admin/.eslintrc.js                                            | JavaScript         |         23 |          2 |          1 |         26 |
+| /Users/ludekun/Desktop/admin/.prettierrc.js                                          | JavaScript         |          8 |          0 |          1 |          9 |
+| /Users/ludekun/Desktop/admin/README.md                                               | Markdown           |         19 |          0 |          6 |         25 |
+| /Users/ludekun/Desktop/admin/babel.config.js                                         | JavaScript         |          3 |          0 |          1 |          4 |
+| /Users/ludekun/Desktop/admin/mock/index.ts                                           | TypeScript         |          7 |          0 |          2 |          9 |
+| /Users/ludekun/Desktop/admin/mock/menus.ts                                           | TypeScript         |         31 |         12 |          1 |         44 |
+| /Users/ludekun/Desktop/admin/mock/page/index.ts                                      | TypeScript         |         36 |          0 |          1 |         37 |
+| /Users/ludekun/Desktop/admin/package-lock.json                                       | JSON               |     31,260 |          0 |          1 |     31,261 |
+| /Users/ludekun/Desktop/admin/package.json                                            | JSON               |         75 |          0 |          1 |         76 |
+| /Users/ludekun/Desktop/admin/public/img/icons/safari-pinned-tab.svg                  | XML                |          3 |          0 |          1 |          4 |
+| /Users/ludekun/Desktop/admin/public/index.html                                       | HTML               |         16 |          1 |          1 |         18 |
+| /Users/ludekun/Desktop/admin/src/App.vue                                             | vue                |         18 |          0 |          2 |         20 |
+| /Users/ludekun/Desktop/admin/src/api/axios.ts                                        | TypeScript         |         56 |         23 |          7 |         86 |
+| /Users/ludekun/Desktop/admin/src/api/index.ts                                        | TypeScript         |          0 |          0 |          2 |          2 |
+| /Users/ludekun/Desktop/admin/src/api/menus.ts                                        | TypeScript         |          6 |          0 |          2 |          8 |
+| /Users/ludekun/Desktop/admin/src/api/page/goods.ts                                   | TypeScript         |         57 |          8 |          2 |         67 |
+| /Users/ludekun/Desktop/admin/src/api/page/index.ts                                   | TypeScript         |         14 |          0 |          2 |         16 |
+| /Users/ludekun/Desktop/admin/src/api/page/login.ts                                   | TypeScript         |          9 |          0 |          2 |         11 |
+| /Users/ludekun/Desktop/admin/src/api/page/user.ts                                    | TypeScript         |         17 |          2 |          1 |         20 |
+| /Users/ludekun/Desktop/admin/src/api/request.ts                                      | TypeScript         |         13 |          4 |          3 |         20 |
+| /Users/ludekun/Desktop/admin/src/components/good/addSpecifications.module.css        | CSS                |         39 |          0 |          1 |         40 |
+| /Users/ludekun/Desktop/admin/src/components/good/addSpecifications.module.less       | Less               |         39 |          0 |          7 |         46 |
+| /Users/ludekun/Desktop/admin/src/components/good/addSpecifications.tsx               | TypeScript React   |        314 |         36 |         10 |        360 |
+| /Users/ludekun/Desktop/admin/src/components/good/editgood.module.css                 | CSS                |         50 |          0 |          1 |         51 |
+| /Users/ludekun/Desktop/admin/src/components/good/editgood.module.less                | Less               |         54 |          0 |          8 |         62 |
+| /Users/ludekun/Desktop/admin/src/components/good/editgood.tsx                        | TypeScript React   |        168 |         18 |          2 |        188 |
+| /Users/ludekun/Desktop/admin/src/components/good/goodSpecificationsTable.css         | CSS                |          3 |          0 |          1 |          4 |
+| /Users/ludekun/Desktop/admin/src/components/good/goodSpecificationsTable.module.less | Less               |          3 |          1 |          1 |          5 |
+| /Users/ludekun/Desktop/admin/src/components/good/goodSpecificationsTable.tsx         | TypeScript React   |         91 |          4 |          6 |        101 |
+| /Users/ludekun/Desktop/admin/src/components/header.vue                               | vue                |        181 |          0 |          1 |        182 |
+| /Users/ludekun/Desktop/admin/src/components/index/close.module.css                   | CSS                |         25 |          0 |          1 |         26 |
+| /Users/ludekun/Desktop/admin/src/components/index/close.module.less                  | Less               |         25 |          0 |          2 |         27 |
+| /Users/ludekun/Desktop/admin/src/components/index/close.tsx                          | TypeScript React   |         21 |          0 |          2 |         23 |
+| /Users/ludekun/Desktop/admin/src/components/index/feedback.module.css                | CSS                |        118 |          0 |          1 |        119 |
+| /Users/ludekun/Desktop/admin/src/components/index/feedback.module.less               | Less               |        120 |          0 |         15 |        135 |
+| /Users/ludekun/Desktop/admin/src/components/index/feedback.tsx                       | TypeScript React   |        154 |          2 |          2 |        158 |
+| /Users/ludekun/Desktop/admin/src/components/index/makeUpCollection.module.css        | CSS                |         46 |          0 |          1 |         47 |
+| /Users/ludekun/Desktop/admin/src/components/index/makeUpCollection.module.less       | Less               |         46 |          0 |          5 |         51 |
+| /Users/ludekun/Desktop/admin/src/components/index/makeUpCollection.tsx               | TypeScript React   |        106 |          2 |          5 |        113 |
+| /Users/ludekun/Desktop/admin/src/components/index/message.module.css                 | CSS                |         86 |          0 |          1 |         87 |
+| /Users/ludekun/Desktop/admin/src/components/index/message.module.less                | Less               |         86 |          1 |         10 |         97 |
+| /Users/ludekun/Desktop/admin/src/components/index/message.tsx                        | TypeScript React   |         55 |          0 |          1 |         56 |
+| /Users/ludekun/Desktop/admin/src/components/kami/addPopWindow.module.css             | CSS                |         33 |          0 |          1 |         34 |
+| /Users/ludekun/Desktop/admin/src/components/kami/addPopWindow.module.less            | Less               |         33 |          0 |          4 |         37 |
+| /Users/ludekun/Desktop/admin/src/components/kami/addPopWindow.tsx                    | TypeScript React   |         35 |          1 |          4 |         40 |
+| /Users/ludekun/Desktop/admin/src/components/menu-item.vue                            | vue                |         14 |          0 |          1 |         15 |
+| /Users/ludekun/Desktop/admin/src/components/menus.vue                                | vue                |         83 |          0 |          5 |         88 |
+| /Users/ludekun/Desktop/admin/src/components/publicity/time.module.css                | CSS                |         24 |          0 |          1 |         25 |
+| /Users/ludekun/Desktop/admin/src/components/publicity/time.module.less               | Less               |         24 |          0 |          3 |         27 |
+| /Users/ludekun/Desktop/admin/src/components/publicity/time.tsx                       | TypeScript React   |         39 |          0 |          1 |         40 |
+| /Users/ludekun/Desktop/admin/src/components/shop/shopSubmit.module.css               | CSS                |         75 |          0 |          1 |         76 |
+| /Users/ludekun/Desktop/admin/src/components/shop/shopSubmit.module.less              | Less               |         77 |          0 |         10 |         87 |
+| /Users/ludekun/Desktop/admin/src/components/shop/shopSubmit.tsx                      | TypeScript React   |         48 |          0 |          2 |         50 |
+| /Users/ludekun/Desktop/admin/src/components/user/edit.module.css                     | CSS                |         10 |          0 |          1 |         11 |
+| /Users/ludekun/Desktop/admin/src/components/user/edit.module.less                    | Less               |         14 |          0 |          2 |         16 |
+| /Users/ludekun/Desktop/admin/src/components/user/edit.tsx                            | TypeScript React   |        113 |          7 |          2 |        122 |
+| /Users/ludekun/Desktop/admin/src/hooks/MerchandiseClassList.ts                       | TypeScript         |         19 |          1 |          3 |         23 |
+| /Users/ludekun/Desktop/admin/src/hooks/index.ts                                      | TypeScript         |        252 |          8 |          9 |        269 |
+| /Users/ludekun/Desktop/admin/src/hooks/useMerchandiseList.ts                         | TypeScript         |         55 |         10 |          3 |         68 |
+| /Users/ludekun/Desktop/admin/src/main.ts                                             | TypeScript         |         10 |          0 |          2 |         12 |
+| /Users/ludekun/Desktop/admin/src/registerServiceWorker.ts                            | TypeScript         |         31 |          1 |          3 |         35 |
+| /Users/ludekun/Desktop/admin/src/router/index.ts                                     | TypeScript         |        135 |          0 |          4 |        139 |
+| /Users/ludekun/Desktop/admin/src/shims-vue.d.ts                                      | TypeScript         |         13 |          1 |          1 |         15 |
+| /Users/ludekun/Desktop/admin/src/store/index.ts                                      | TypeScript         |          3 |          0 |          3 |          6 |
+| /Users/ludekun/Desktop/admin/src/store/modules/user.ts                               | TypeScript         |         17 |          0 |          1 |         18 |
+| /Users/ludekun/Desktop/admin/src/type/image.d.ts                                     | TypeScript         |          7 |          3 |          1 |         11 |
+| /Users/ludekun/Desktop/admin/src/type/index.d.ts                                     | TypeScript         |          9 |          0 |          1 |         10 |
+| /Users/ludekun/Desktop/admin/src/type/menus.d.ts                                     | TypeScript         |          6 |          0 |          1 |          7 |
+| /Users/ludekun/Desktop/admin/src/type/page/Merchandise.d.ts                          | TypeScript         |        104 |         11 |         10 |        125 |
+| /Users/ludekun/Desktop/admin/src/type/page/api.d.ts                                  | TypeScript         |          5 |          1 |          1 |          7 |
+| /Users/ludekun/Desktop/admin/src/type/page/index.d.ts                                | TypeScript         |         20 |          3 |          1 |         24 |
+| /Users/ludekun/Desktop/admin/src/type/page/login.d.ts                                | TypeScript         |         17 |          2 |          1 |         20 |
+| /Users/ludekun/Desktop/admin/src/type/page/user.d.ts                                 | TypeScript         |         42 |          3 |          5 |         50 |
+| /Users/ludekun/Desktop/admin/src/utils/index.ts                                      | TypeScript         |          1 |          0 |          1 |          2 |
+| /Users/ludekun/Desktop/admin/src/views/Home.vue                                      | vue                |         50 |          0 |          1 |         51 |
+| /Users/ludekun/Desktop/admin/src/views/Index.vue                                     | vue                |        446 |          0 |          3 |        449 |
+| /Users/ludekun/Desktop/admin/src/views/KamiList.vue                                  | vue                |          3 |          0 |          1 |          4 |
+| /Users/ludekun/Desktop/admin/src/views/Login.vue                                     | vue                |        173 |          0 |          1 |        174 |
+| /Users/ludekun/Desktop/admin/src/views/Merchandise.vue                               | vue                |         66 |          0 |          2 |         68 |
+| /Users/ludekun/Desktop/admin/src/views/MerchandiseAdd.vue                            | vue                |        351 |          0 |          6 |        357 |
+| /Users/ludekun/Desktop/admin/src/views/MerchandiseClassAdd.vue                       | vue                |        119 |          0 |          2 |        121 |
+| /Users/ludekun/Desktop/admin/src/views/MerchandiseClassList.vue                      | vue                |        189 |          3 |          2 |        194 |
+| /Users/ludekun/Desktop/admin/src/views/MerchandiseList.vue                           | vue                |        341 |          8 |          6 |        355 |
+| /Users/ludekun/Desktop/admin/src/views/Order.vue                                     | vue                |         63 |          0 |          2 |         65 |
+| /Users/ludekun/Desktop/admin/src/views/OrderIncome.vue                               | vue                |        399 |          0 |          2 |        401 |
+| /Users/ludekun/Desktop/admin/src/views/OrderList.vue                                 | vue                |        274 |          0 |          2 |        276 |
+| /Users/ludekun/Desktop/admin/src/views/OrderProxy.vue                                | vue                |          3 |          0 |          1 |          4 |
+| /Users/ludekun/Desktop/admin/src/views/Publicity.vue                                 | vue                |        458 |          0 |          3 |        461 |
+| /Users/ludekun/Desktop/admin/src/views/Register.vue                                  | vue                |        149 |          0 |          1 |        150 |
+| /Users/ludekun/Desktop/admin/src/views/Shop.vue                                      | vue                |         60 |          0 |          2 |         62 |
+| /Users/ludekun/Desktop/admin/src/views/ShopLink.vue                                  | vue                |        196 |          0 |          1 |        197 |
+| /Users/ludekun/Desktop/admin/src/views/ShopSetup.vue                                 | vue                |        260 |          0 |          2 |        262 |
+| /Users/ludekun/Desktop/admin/src/views/ShopSubmit.vue                                | vue                |        392 |          0 |          3 |        395 |
+| /Users/ludekun/Desktop/admin/src/views/Uppwd.vue                                     | vue                |         99 |          0 |          3 |        102 |
+| /Users/ludekun/Desktop/admin/src/views/User.vue                                      | vue                |         57 |          0 |          2 |         59 |
+| /Users/ludekun/Desktop/admin/src/views/UserMy.vue                                    | vue                |        307 |          4 |          9 |        320 |
+| /Users/ludekun/Desktop/admin/tsconfig.json                                           | JSON with Comments |         18 |          7 |          0 |         25 |
+| /Users/ludekun/Desktop/admin/vite.config.ts                                          | TypeScript         |          7 |          0 |          1 |          8 |
+| Total                                                                                |                    |     39,349 |        190 |        271 |     39,810 |
++--------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+

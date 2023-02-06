@@ -1,0 +1,10 @@
+.customClass :global .ant-form-item-label {
+  width: 70px;
+}
+.customClass .btn {
+  margin-left: 70px;
+}
+.customClass .img {
+  max-width: 102px;
+  max-height: 102px;
+}

@@ -1,0 +1,286 @@
+Date : 2023-01-29 23:05:00
+Directory : /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src
+Total : 190 files,  -31685 codes, -9 comments, 2 blanks, all -31692 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| TypeScript React   |         24 |        111 |          3 |          6 |        120 |
+| Less               |         24 |         25 |          0 |          3 |         28 |
+| CSS                |         24 |         21 |          0 |          2 |         23 |
+| XML                |          1 |         -3 |          0 |         -1 |         -4 |
+| TypeScript         |         58 |         -8 |         -6 |          5 |         -9 |
+| HTML               |          1 |        -16 |         -1 |         -1 |        -18 |
+| JSON with Comments |          1 |        -18 |         -7 |          0 |        -25 |
+| Markdown           |          1 |        -19 |          0 |         -6 |        -25 |
+| JavaScript         |          3 |        -34 |         -2 |         -3 |        -39 |
+| vue                |         51 |       -409 |          4 |         -1 |       -406 |
+| JSON               |          2 |    -31,335 |          0 |         -2 |    -31,337 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                          | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                             |        190 |    -31,685 |         -9 |          2 |    -31,692 |
+| . (Files)                                                                                                                     |          4 |         72 |          2 |          8 |         82 |
+| ..                                                                                                                            |         98 |    -39,349 |       -190 |       -271 |    -39,810 |
+| ../..                                                                                                                         |         98 |    -39,349 |       -190 |       -271 |    -39,810 |
+| ../../..                                                                                                                      |         98 |    -39,349 |       -190 |       -271 |    -39,810 |
+| ../../../..                                                                                                                   |         98 |    -39,349 |       -190 |       -271 |    -39,810 |
+| ../../../../..                                                                                                                |         98 |    -39,349 |       -190 |       -271 |    -39,810 |
+| ../../../../../..                                                                                                             |         98 |    -39,349 |       -190 |       -271 |    -39,810 |
+| ../../../../../../Desktop                                                                                                     |         98 |    -39,349 |       -190 |       -271 |    -39,810 |
+| ../../../../../../Desktop/admin                                                                                               |         98 |    -39,349 |       -190 |       -271 |    -39,810 |
+| ../../../../../../Desktop/admin (Files)                                                                                       |          8 |    -31,413 |         -9 |        -12 |    -31,434 |
+| ../../../../../../Desktop/admin/mock                                                                                          |          3 |        -74 |        -12 |         -4 |        -90 |
+| ../../../../../../Desktop/admin/mock (Files)                                                                                  |          2 |        -38 |        -12 |         -3 |        -53 |
+| ../../../../../../Desktop/admin/mock/page                                                                                     |          1 |        -36 |          0 |         -1 |        -37 |
+| ../../../../../../Desktop/admin/public                                                                                        |          2 |        -19 |         -1 |         -2 |        -22 |
+| ../../../../../../Desktop/admin/public (Files)                                                                                |          1 |        -16 |         -1 |         -1 |        -18 |
+| ../../../../../../Desktop/admin/public/img                                                                                    |          1 |         -3 |          0 |         -1 |         -4 |
+| ../../../../../../Desktop/admin/public/img/icons                                                                              |          1 |         -3 |          0 |         -1 |         -4 |
+| ../../../../../../Desktop/admin/src                                                                                           |         85 |     -7,843 |       -168 |       -253 |     -8,264 |
+| ../../../../../../Desktop/admin/src (Files)                                                                                   |          4 |        -72 |         -2 |         -8 |        -82 |
+| ../../../../../../Desktop/admin/src/api                                                                                       |          8 |       -172 |        -37 |        -21 |       -230 |
+| ../../../../../../Desktop/admin/src/api (Files)                                                                               |          4 |        -75 |        -27 |        -14 |       -116 |
+| ../../../../../../Desktop/admin/src/api/page                                                                                  |          4 |        -97 |        -10 |         -7 |       -114 |
+| ../../../../../../Desktop/admin/src/components                                                                                |         36 |     -2,452 |        -72 |       -122 |     -2,646 |
+| ../../../../../../Desktop/admin/src/components (Files)                                                                        |          3 |       -278 |          0 |         -7 |       -285 |
+| ../../../../../../Desktop/admin/src/components/good                                                                           |          9 |       -761 |        -59 |        -37 |       -857 |
+| ../../../../../../Desktop/admin/src/components/index                                                                          |         12 |       -888 |         -5 |        -46 |       -939 |
+| ../../../../../../Desktop/admin/src/components/kami                                                                           |          3 |       -101 |         -1 |         -9 |       -111 |
+| ../../../../../../Desktop/admin/src/components/publicity                                                                      |          3 |        -87 |          0 |         -5 |        -92 |
+| ../../../../../../Desktop/admin/src/components/shop                                                                           |          3 |       -200 |          0 |        -13 |       -213 |
+| ../../../../../../Desktop/admin/src/components/user                                                                           |          3 |       -137 |         -7 |         -5 |       -149 |
+| ../../../../../../Desktop/admin/src/hooks                                                                                     |          3 |       -326 |        -19 |        -15 |       -360 |
+| ../../../../../../Desktop/admin/src/router                                                                                    |          1 |       -135 |          0 |         -4 |       -139 |
+| ../../../../../../Desktop/admin/src/store                                                                                     |          2 |        -20 |          0 |         -4 |        -24 |
+| ../../../../../../Desktop/admin/src/store (Files)                                                                             |          1 |         -3 |          0 |         -3 |         -6 |
+| ../../../../../../Desktop/admin/src/store/modules                                                                             |          1 |        -17 |          0 |         -1 |        -18 |
+| ../../../../../../Desktop/admin/src/type                                                                                      |          8 |       -210 |        -23 |        -21 |       -254 |
+| ../../../../../../Desktop/admin/src/type (Files)                                                                              |          3 |        -22 |         -3 |         -3 |        -28 |
+| ../../../../../../Desktop/admin/src/type/page                                                                                 |          5 |       -188 |        -20 |        -18 |       -226 |
+| ../../../../../../Desktop/admin/src/utils                                                                                     |          1 |         -1 |          0 |         -1 |         -2 |
+| ../../../../../../Desktop/admin/src/views                                                                                     |         22 |     -4,455 |        -15 |        -57 |     -4,527 |
+| api                                                                                                                           |          9 |        188 |         39 |         24 |        251 |
+| api (Files)                                                                                                                   |          4 |         75 |         27 |         14 |        116 |
+| api/page                                                                                                                      |          5 |        113 |         12 |         10 |        135 |
+| components                                                                                                                    |         42 |      2,609 |         75 |        133 |      2,817 |
+| components (Files)                                                                                                            |          3 |        278 |          0 |          7 |        285 |
+| components/good                                                                                                               |          9 |        761 |         59 |         37 |        857 |
+| components/index                                                                                                              |         12 |        888 |          5 |         46 |        939 |
+| components/kami                                                                                                               |          3 |        101 |          1 |          9 |        111 |
+| components/order                                                                                                              |          6 |        157 |          3 |         11 |        171 |
+| components/publicity                                                                                                          |          3 |         87 |          0 |          5 |         92 |
+| components/shop                                                                                                               |          3 |        200 |          0 |         13 |        213 |
+| components/user                                                                                                               |          3 |        137 |          7 |          5 |        149 |
+| hooks                                                                                                                         |          3 |        326 |         19 |         15 |        360 |
+| router                                                                                                                        |          1 |        125 |          0 |          4 |        129 |
+| store                                                                                                                         |          2 |         20 |          0 |          4 |         24 |
+| store (Files)                                                                                                                 |          1 |          3 |          0 |          3 |          6 |
+| store/modules                                                                                                                 |          1 |         17 |          0 |          1 |         18 |
+| type                                                                                                                          |          9 |        277 |         27 |         28 |        332 |
+| type (Files)                                                                                                                  |          3 |         22 |          3 |          3 |         28 |
+| type/page                                                                                                                     |          6 |        255 |         24 |         25 |        304 |
+| utils                                                                                                                         |          1 |          1 |          0 |          1 |          2 |
+| views                                                                                                                         |         21 |      4,046 |         19 |         56 |      4,121 |
++-------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                                                                      | language           | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| /Users/ludekun/Desktop/admin/.eslintrc.js                                                                                     | JavaScript         |        -23 |         -2 |         -1 |        -26 |
+| /Users/ludekun/Desktop/admin/.prettierrc.js                                                                                   | JavaScript         |         -8 |          0 |         -1 |         -9 |
+| /Users/ludekun/Desktop/admin/README.md                                                                                        | Markdown           |        -19 |          0 |         -6 |        -25 |
+| /Users/ludekun/Desktop/admin/babel.config.js                                                                                  | JavaScript         |         -3 |          0 |         -1 |         -4 |
+| /Users/ludekun/Desktop/admin/mock/index.ts                                                                                    | TypeScript         |         -7 |          0 |         -2 |         -9 |
+| /Users/ludekun/Desktop/admin/mock/menus.ts                                                                                    | TypeScript         |        -31 |        -12 |         -1 |        -44 |
+| /Users/ludekun/Desktop/admin/mock/page/index.ts                                                                               | TypeScript         |        -36 |          0 |         -1 |        -37 |
+| /Users/ludekun/Desktop/admin/package-lock.json                                                                                | JSON               |    -31,260 |          0 |         -1 |    -31,261 |
+| /Users/ludekun/Desktop/admin/package.json                                                                                     | JSON               |        -75 |          0 |         -1 |        -76 |
+| /Users/ludekun/Desktop/admin/public/img/icons/safari-pinned-tab.svg                                                           | XML                |         -3 |          0 |         -1 |         -4 |
+| /Users/ludekun/Desktop/admin/public/index.html                                                                                | HTML               |        -16 |         -1 |         -1 |        -18 |
+| /Users/ludekun/Desktop/admin/src/App.vue                                                                                      | vue                |        -18 |          0 |         -2 |        -20 |
+| /Users/ludekun/Desktop/admin/src/api/axios.ts                                                                                 | TypeScript         |        -56 |        -23 |         -7 |        -86 |
+| /Users/ludekun/Desktop/admin/src/api/index.ts                                                                                 | TypeScript         |          0 |          0 |         -2 |         -2 |
+| /Users/ludekun/Desktop/admin/src/api/menus.ts                                                                                 | TypeScript         |         -6 |          0 |         -2 |         -8 |
+| /Users/ludekun/Desktop/admin/src/api/page/goods.ts                                                                            | TypeScript         |        -57 |         -8 |         -2 |        -67 |
+| /Users/ludekun/Desktop/admin/src/api/page/index.ts                                                                            | TypeScript         |        -14 |          0 |         -2 |        -16 |
+| /Users/ludekun/Desktop/admin/src/api/page/login.ts                                                                            | TypeScript         |         -9 |          0 |         -2 |        -11 |
+| /Users/ludekun/Desktop/admin/src/api/page/user.ts                                                                             | TypeScript         |        -17 |         -2 |         -1 |        -20 |
+| /Users/ludekun/Desktop/admin/src/api/request.ts                                                                               | TypeScript         |        -13 |         -4 |         -3 |        -20 |
+| /Users/ludekun/Desktop/admin/src/components/good/addSpecifications.module.css                                                 | CSS                |        -39 |          0 |         -1 |        -40 |
+| /Users/ludekun/Desktop/admin/src/components/good/addSpecifications.module.less                                                | Less               |        -39 |          0 |         -7 |        -46 |
+| /Users/ludekun/Desktop/admin/src/components/good/addSpecifications.tsx                                                        | TypeScript React   |       -314 |        -36 |        -10 |       -360 |
+| /Users/ludekun/Desktop/admin/src/components/good/editgood.module.css                                                          | CSS                |        -50 |          0 |         -1 |        -51 |
+| /Users/ludekun/Desktop/admin/src/components/good/editgood.module.less                                                         | Less               |        -54 |          0 |         -8 |        -62 |
+| /Users/ludekun/Desktop/admin/src/components/good/editgood.tsx                                                                 | TypeScript React   |       -168 |        -18 |         -2 |       -188 |
+| /Users/ludekun/Desktop/admin/src/components/good/goodSpecificationsTable.css                                                  | CSS                |         -3 |          0 |         -1 |         -4 |
+| /Users/ludekun/Desktop/admin/src/components/good/goodSpecificationsTable.module.less                                          | Less               |         -3 |         -1 |         -1 |         -5 |
+| /Users/ludekun/Desktop/admin/src/components/good/goodSpecificationsTable.tsx                                                  | TypeScript React   |        -91 |         -4 |         -6 |       -101 |
+| /Users/ludekun/Desktop/admin/src/components/header.vue                                                                        | vue                |       -181 |          0 |         -1 |       -182 |
+| /Users/ludekun/Desktop/admin/src/components/index/close.module.css                                                            | CSS                |        -25 |          0 |         -1 |        -26 |
+| /Users/ludekun/Desktop/admin/src/components/index/close.module.less                                                           | Less               |        -25 |          0 |         -2 |        -27 |
+| /Users/ludekun/Desktop/admin/src/components/index/close.tsx                                                                   | TypeScript React   |        -21 |          0 |         -2 |        -23 |
+| /Users/ludekun/Desktop/admin/src/components/index/feedback.module.css                                                         | CSS                |       -118 |          0 |         -1 |       -119 |
+| /Users/ludekun/Desktop/admin/src/components/index/feedback.module.less                                                        | Less               |       -120 |          0 |        -15 |       -135 |
+| /Users/ludekun/Desktop/admin/src/components/index/feedback.tsx                                                                | TypeScript React   |       -154 |         -2 |         -2 |       -158 |
+| /Users/ludekun/Desktop/admin/src/components/index/makeUpCollection.module.css                                                 | CSS                |        -46 |          0 |         -1 |        -47 |
+| /Users/ludekun/Desktop/admin/src/components/index/makeUpCollection.module.less                                                | Less               |        -46 |          0 |         -5 |        -51 |
+| /Users/ludekun/Desktop/admin/src/components/index/makeUpCollection.tsx                                                        | TypeScript React   |       -106 |         -2 |         -5 |       -113 |
+| /Users/ludekun/Desktop/admin/src/components/index/message.module.css                                                          | CSS                |        -86 |          0 |         -1 |        -87 |
+| /Users/ludekun/Desktop/admin/src/components/index/message.module.less                                                         | Less               |        -86 |         -1 |        -10 |        -97 |
+| /Users/ludekun/Desktop/admin/src/components/index/message.tsx                                                                 | TypeScript React   |        -55 |          0 |         -1 |        -56 |
+| /Users/ludekun/Desktop/admin/src/components/kami/addPopWindow.module.css                                                      | CSS                |        -33 |          0 |         -1 |        -34 |
+| /Users/ludekun/Desktop/admin/src/components/kami/addPopWindow.module.less                                                     | Less               |        -33 |          0 |         -4 |        -37 |
+| /Users/ludekun/Desktop/admin/src/components/kami/addPopWindow.tsx                                                             | TypeScript React   |        -35 |         -1 |         -4 |        -40 |
+| /Users/ludekun/Desktop/admin/src/components/menu-item.vue                                                                     | vue                |        -14 |          0 |         -1 |        -15 |
+| /Users/ludekun/Desktop/admin/src/components/menus.vue                                                                         | vue                |        -83 |          0 |         -5 |        -88 |
+| /Users/ludekun/Desktop/admin/src/components/publicity/time.module.css                                                         | CSS                |        -24 |          0 |         -1 |        -25 |
+| /Users/ludekun/Desktop/admin/src/components/publicity/time.module.less                                                        | Less               |        -24 |          0 |         -3 |        -27 |
+| /Users/ludekun/Desktop/admin/src/components/publicity/time.tsx                                                                | TypeScript React   |        -39 |          0 |         -1 |        -40 |
+| /Users/ludekun/Desktop/admin/src/components/shop/shopSubmit.module.css                                                        | CSS                |        -75 |          0 |         -1 |        -76 |
+| /Users/ludekun/Desktop/admin/src/components/shop/shopSubmit.module.less                                                       | Less               |        -77 |          0 |        -10 |        -87 |
+| /Users/ludekun/Desktop/admin/src/components/shop/shopSubmit.tsx                                                               | TypeScript React   |        -48 |          0 |         -2 |        -50 |
+| /Users/ludekun/Desktop/admin/src/components/user/edit.module.css                                                              | CSS                |        -10 |          0 |         -1 |        -11 |
+| /Users/ludekun/Desktop/admin/src/components/user/edit.module.less                                                             | Less               |        -14 |          0 |         -2 |        -16 |
+| /Users/ludekun/Desktop/admin/src/components/user/edit.tsx                                                                     | TypeScript React   |       -113 |         -7 |         -2 |       -122 |
+| /Users/ludekun/Desktop/admin/src/hooks/MerchandiseClassList.ts                                                                | TypeScript         |        -19 |         -1 |         -3 |        -23 |
+| /Users/ludekun/Desktop/admin/src/hooks/index.ts                                                                               | TypeScript         |       -252 |         -8 |         -9 |       -269 |
+| /Users/ludekun/Desktop/admin/src/hooks/useMerchandiseList.ts                                                                  | TypeScript         |        -55 |        -10 |         -3 |        -68 |
+| /Users/ludekun/Desktop/admin/src/main.ts                                                                                      | TypeScript         |        -10 |          0 |         -2 |        -12 |
+| /Users/ludekun/Desktop/admin/src/registerServiceWorker.ts                                                                     | TypeScript         |        -31 |         -1 |         -3 |        -35 |
+| /Users/ludekun/Desktop/admin/src/router/index.ts                                                                              | TypeScript         |       -135 |          0 |         -4 |       -139 |
+| /Users/ludekun/Desktop/admin/src/shims-vue.d.ts                                                                               | TypeScript         |        -13 |         -1 |         -1 |        -15 |
+| /Users/ludekun/Desktop/admin/src/store/index.ts                                                                               | TypeScript         |         -3 |          0 |         -3 |         -6 |
+| /Users/ludekun/Desktop/admin/src/store/modules/user.ts                                                                        | TypeScript         |        -17 |          0 |         -1 |        -18 |
+| /Users/ludekun/Desktop/admin/src/type/image.d.ts                                                                              | TypeScript         |         -7 |         -3 |         -1 |        -11 |
+| /Users/ludekun/Desktop/admin/src/type/index.d.ts                                                                              | TypeScript         |         -9 |          0 |         -1 |        -10 |
+| /Users/ludekun/Desktop/admin/src/type/menus.d.ts                                                                              | TypeScript         |         -6 |          0 |         -1 |         -7 |
+| /Users/ludekun/Desktop/admin/src/type/page/Merchandise.d.ts                                                                   | TypeScript         |       -104 |        -11 |        -10 |       -125 |
+| /Users/ludekun/Desktop/admin/src/type/page/api.d.ts                                                                           | TypeScript         |         -5 |         -1 |         -1 |         -7 |
+| /Users/ludekun/Desktop/admin/src/type/page/index.d.ts                                                                         | TypeScript         |        -20 |         -3 |         -1 |        -24 |
+| /Users/ludekun/Desktop/admin/src/type/page/login.d.ts                                                                         | TypeScript         |        -17 |         -2 |         -1 |        -20 |
+| /Users/ludekun/Desktop/admin/src/type/page/user.d.ts                                                                          | TypeScript         |        -42 |         -3 |         -5 |        -50 |
+| /Users/ludekun/Desktop/admin/src/utils/index.ts                                                                               | TypeScript         |         -1 |          0 |         -1 |         -2 |
+| /Users/ludekun/Desktop/admin/src/views/Home.vue                                                                               | vue                |        -50 |          0 |         -1 |        -51 |
+| /Users/ludekun/Desktop/admin/src/views/Index.vue                                                                              | vue                |       -446 |          0 |         -3 |       -449 |
+| /Users/ludekun/Desktop/admin/src/views/KamiList.vue                                                                           | vue                |         -3 |          0 |         -1 |         -4 |
+| /Users/ludekun/Desktop/admin/src/views/Login.vue                                                                              | vue                |       -173 |          0 |         -1 |       -174 |
+| /Users/ludekun/Desktop/admin/src/views/Merchandise.vue                                                                        | vue                |        -66 |          0 |         -2 |        -68 |
+| /Users/ludekun/Desktop/admin/src/views/MerchandiseAdd.vue                                                                     | vue                |       -351 |          0 |         -6 |       -357 |
+| /Users/ludekun/Desktop/admin/src/views/MerchandiseClassAdd.vue                                                                | vue                |       -119 |          0 |         -2 |       -121 |
+| /Users/ludekun/Desktop/admin/src/views/MerchandiseClassList.vue                                                               | vue                |       -189 |         -3 |         -2 |       -194 |
+| /Users/ludekun/Desktop/admin/src/views/MerchandiseList.vue                                                                    | vue                |       -341 |         -8 |         -6 |       -355 |
+| /Users/ludekun/Desktop/admin/src/views/Order.vue                                                                              | vue                |        -63 |          0 |         -2 |        -65 |
+| /Users/ludekun/Desktop/admin/src/views/OrderIncome.vue                                                                        | vue                |       -399 |          0 |         -2 |       -401 |
+| /Users/ludekun/Desktop/admin/src/views/OrderList.vue                                                                          | vue                |       -274 |          0 |         -2 |       -276 |
+| /Users/ludekun/Desktop/admin/src/views/OrderProxy.vue                                                                         | vue                |         -3 |          0 |         -1 |         -4 |
+| /Users/ludekun/Desktop/admin/src/views/Publicity.vue                                                                          | vue                |       -458 |          0 |         -3 |       -461 |
+| /Users/ludekun/Desktop/admin/src/views/Register.vue                                                                           | vue                |       -149 |          0 |         -1 |       -150 |
+| /Users/ludekun/Desktop/admin/src/views/Shop.vue                                                                               | vue                |        -60 |          0 |         -2 |        -62 |
+| /Users/ludekun/Desktop/admin/src/views/ShopLink.vue                                                                           | vue                |       -196 |          0 |         -1 |       -197 |
+| /Users/ludekun/Desktop/admin/src/views/ShopSetup.vue                                                                          | vue                |       -260 |          0 |         -2 |       -262 |
+| /Users/ludekun/Desktop/admin/src/views/ShopSubmit.vue                                                                         | vue                |       -392 |          0 |         -3 |       -395 |
+| /Users/ludekun/Desktop/admin/src/views/Uppwd.vue                                                                              | vue                |        -99 |          0 |         -3 |       -102 |
+| /Users/ludekun/Desktop/admin/src/views/User.vue                                                                               | vue                |        -57 |          0 |         -2 |        -59 |
+| /Users/ludekun/Desktop/admin/src/views/UserMy.vue                                                                             | vue                |       -307 |         -4 |         -9 |       -320 |
+| /Users/ludekun/Desktop/admin/tsconfig.json                                                                                    | JSON with Comments |        -18 |         -7 |          0 |        -25 |
+| /Users/ludekun/Desktop/admin/vite.config.ts                                                                                   | TypeScript         |         -7 |          0 |         -1 |         -8 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/App.vue                                             | vue                |         18 |          0 |          2 |         20 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/api/axios.ts                                        | TypeScript         |         56 |         23 |          7 |         86 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/api/index.ts                                        | TypeScript         |          0 |          0 |          2 |          2 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/api/menus.ts                                        | TypeScript         |          6 |          0 |          2 |          8 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/api/page/goods.ts                                   | TypeScript         |         57 |          8 |          2 |         67 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/api/page/index.ts                                   | TypeScript         |         14 |          0 |          2 |         16 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/api/page/login.ts                                   | TypeScript         |          9 |          0 |          2 |         11 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/api/page/order.ts                                   | TypeScript         |         16 |          2 |          3 |         21 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/api/page/user.ts                                    | TypeScript         |         17 |          2 |          1 |         20 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/api/request.ts                                      | TypeScript         |         13 |          4 |          3 |         20 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/good/addSpecifications.module.css        | CSS                |         39 |          0 |          1 |         40 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/good/addSpecifications.module.less       | Less               |         39 |          0 |          7 |         46 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/good/addSpecifications.tsx               | TypeScript React   |        314 |         36 |         10 |        360 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/good/editgood.module.css                 | CSS                |         50 |          0 |          1 |         51 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/good/editgood.module.less                | Less               |         54 |          0 |          8 |         62 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/good/editgood.tsx                        | TypeScript React   |        168 |         18 |          2 |        188 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/good/goodSpecificationsTable.css         | CSS                |          3 |          0 |          1 |          4 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/good/goodSpecificationsTable.module.less | Less               |          3 |          1 |          1 |          5 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/good/goodSpecificationsTable.tsx         | TypeScript React   |         91 |          4 |          6 |        101 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/header.vue                               | vue                |        181 |          0 |          1 |        182 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/index/close.module.css                   | CSS                |         25 |          0 |          1 |         26 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/index/close.module.less                  | Less               |         25 |          0 |          2 |         27 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/index/close.tsx                          | TypeScript React   |         21 |          0 |          2 |         23 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/index/feedback.module.css                | CSS                |        118 |          0 |          1 |        119 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/index/feedback.module.less               | Less               |        120 |          0 |         15 |        135 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/index/feedback.tsx                       | TypeScript React   |        154 |          2 |          2 |        158 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/index/makeUpCollection.module.css        | CSS                |         46 |          0 |          1 |         47 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/index/makeUpCollection.module.less       | Less               |         46 |          0 |          5 |         51 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/index/makeUpCollection.tsx               | TypeScript React   |        106 |          2 |          5 |        113 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/index/message.module.css                 | CSS                |         86 |          0 |          1 |         87 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/index/message.module.less                | Less               |         86 |          1 |         10 |         97 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/index/message.tsx                        | TypeScript React   |         55 |          0 |          1 |         56 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/kami/addPopWindow.module.css             | CSS                |         33 |          0 |          1 |         34 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/kami/addPopWindow.module.less            | Less               |         33 |          0 |          4 |         37 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/kami/addPopWindow.tsx                    | TypeScript React   |         35 |          1 |          4 |         40 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/menu-item.vue                            | vue                |         14 |          0 |          1 |         15 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/menus.vue                                | vue                |         83 |          0 |          5 |         88 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/order/orderDetails.module.css            | CSS                |          0 |          0 |          1 |          1 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/order/orderDetails.module.less           | Less               |          0 |          0 |          1 |          1 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/order/orderDetails.tsx                   | TypeScript React   |         76 |          2 |          4 |         82 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/order/orderEdit.module.css               | CSS                |         21 |          0 |          1 |         22 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/order/orderEdit.module.less              | Less               |         25 |          0 |          2 |         27 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/order/orderEdit.tsx                      | TypeScript React   |         35 |          1 |          2 |         38 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/publicity/time.module.css                | CSS                |         24 |          0 |          1 |         25 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/publicity/time.module.less               | Less               |         24 |          0 |          3 |         27 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/publicity/time.tsx                       | TypeScript React   |         39 |          0 |          1 |         40 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/shop/shopSubmit.module.css               | CSS                |         75 |          0 |          1 |         76 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/shop/shopSubmit.module.less              | Less               |         77 |          0 |         10 |         87 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/shop/shopSubmit.tsx                      | TypeScript React   |         48 |          0 |          2 |         50 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/user/edit.module.css                     | CSS                |         10 |          0 |          1 |         11 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/user/edit.module.less                    | Less               |         14 |          0 |          2 |         16 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/user/edit.tsx                            | TypeScript React   |        113 |          7 |          2 |        122 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/hooks/MerchandiseClassList.ts                       | TypeScript         |         19 |          1 |          3 |         23 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/hooks/index.ts                                      | TypeScript         |        252 |          8 |          9 |        269 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/hooks/useMerchandiseList.ts                         | TypeScript         |         55 |         10 |          3 |         68 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/main.ts                                             | TypeScript         |         10 |          0 |          2 |         12 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/registerServiceWorker.ts                            | TypeScript         |         31 |          1 |          3 |         35 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/router/index.ts                                     | TypeScript         |        125 |          0 |          4 |        129 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/shims-vue.d.ts                                      | TypeScript         |         13 |          1 |          1 |         15 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/store/index.ts                                      | TypeScript         |          3 |          0 |          3 |          6 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/store/modules/user.ts                               | TypeScript         |         17 |          0 |          1 |         18 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/type/image.d.ts                                     | TypeScript         |          7 |          3 |          1 |         11 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/type/index.d.ts                                     | TypeScript         |          9 |          0 |          1 |         10 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/type/menus.d.ts                                     | TypeScript         |          6 |          0 |          1 |          7 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/type/page/Merchandise.d.ts                          | TypeScript         |        104 |         11 |         10 |        125 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/type/page/api.d.ts                                  | TypeScript         |          5 |          1 |          1 |          7 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/type/page/index.d.ts                                | TypeScript         |         20 |          3 |          1 |         24 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/type/page/login.d.ts                                | TypeScript         |         17 |          2 |          1 |         20 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/type/page/order.d.ts                                | TypeScript         |         67 |          4 |          7 |         78 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/type/page/user.d.ts                                 | TypeScript         |         42 |          3 |          5 |         50 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/utils/index.ts                                      | TypeScript         |          1 |          0 |          1 |          2 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/Home.vue                                      | vue                |         50 |          0 |          1 |         51 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/Index.vue                                     | vue                |        446 |          0 |          3 |        449 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/KamiList 2.vue                                | vue                |          3 |          0 |          1 |          4 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/KamiList.vue                                  | vue                |          3 |          0 |          1 |          4 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/Login.vue                                     | vue                |        173 |          0 |          1 |        174 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/Merchandise.vue                               | vue                |         66 |          0 |          2 |         68 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/MerchandiseAdd.vue                            | vue                |        366 |          0 |          6 |        372 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/MerchandiseClassAdd.vue                       | vue                |        119 |          0 |          2 |        121 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/MerchandiseClassList.vue                      | vue                |        189 |          3 |          2 |        194 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/MerchandiseList.vue                           | vue                |        342 |          8 |          6 |        356 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/Order.vue                                     | vue                |         57 |          0 |          2 |         59 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/OrderList.vue                                 | vue                |        254 |          4 |          3 |        261 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/Publicity.vue                                 | vue                |        458 |          0 |          3 |        461 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/Register.vue                                  | vue                |        149 |          0 |          1 |        150 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/Shop.vue                                      | vue                |         60 |          0 |          2 |         62 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/ShopLink.vue                                  | vue                |        196 |          0 |          1 |        197 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/ShopSetup.vue                                 | vue                |        260 |          0 |          2 |        262 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/ShopSubmit.vue                                | vue                |        392 |          0 |          3 |        395 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/Uppwd.vue                                     | vue                |         99 |          0 |          3 |        102 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/User.vue                                      | vue                |         57 |          0 |          2 |         59 |
+| /Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/UserMy.vue                                    | vue                |        307 |          4 |          9 |        320 |
+| Total                                                                                                                         |                    |    -31,685 |         -9 |          2 |    -31,692 |
++-------------------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+

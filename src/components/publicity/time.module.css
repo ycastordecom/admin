@@ -1,0 +1,24 @@
+.title {
+  font-size: 14px;
+  color: #333333;
+  margin-bottom: 20px;
+}
+.content {
+  display: flex;
+}
+.content .time {
+  width: 34px;
+  height: 43px;
+  opacity: 1;
+  border-radius: 4px;
+  background: #f3f3f3;
+  margin: 0 5px;
+  line-height: 43px;
+  text-align: center;
+}
+.content .unit {
+  width: 34px;
+  height: 43px;
+  line-height: 43px;
+  text-align: center;
+}

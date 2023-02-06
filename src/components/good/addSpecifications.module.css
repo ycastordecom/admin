@@ -1,0 +1,39 @@
+.addtitle {
+  margin: 10px 0;
+}
+.input {
+  height: 60px !important;
+  line-height: 60px !important;
+}
+.addvaluegroup {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px 0;
+}
+.addvaluegroup .addtag {
+  margin: 10px 0;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 130px;
+  margin-right: 5px;
+}
+.addvaluegroup .addValue {
+  margin: 10px 0;
+  height: 60px;
+  width: 130px;
+}
+.addbth {
+  margin: 10px 0;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.uploadimage {
+  max-width: 102px;
+  max-height: 102px;
+}

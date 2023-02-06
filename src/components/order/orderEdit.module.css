@@ -1,0 +1,21 @@
+.bg :global .ant-form-item-label {
+  width: 100px;
+}
+.bg :global .ant-input {
+  height: 40px;
+  line-height: 40px;
+}
+.bg .paymentstatusno {
+  height: 30px;
+  width: 80px;
+  opacity: 1;
+  color: #fff;
+  background: #3e6cff;
+  line-height: 30px;
+  text-align: center;
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 100px;
+}

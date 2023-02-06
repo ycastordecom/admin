@@ -1,0 +1,50 @@
+.bg :global .ant-btn {
+  margin-left: 70px;
+  width: 100px;
+  height: 40px;
+  opacity: 1;
+  border-radius: 4px;
+  background: #3f6eff;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bg :global .ant-form-item-label {
+  display: flex;
+  align-items: center;
+}
+.bg :global .ant-select {
+  width: 400px;
+  height: 40px;
+  opacity: 1;
+  border-radius: 4px;
+  border: 1px solid #b8c4d1;
+}
+.bg :global .ant-select .ant-select-selector {
+  height: 40px;
+  line-height: 40px;
+}
+.bg :global .ant-select .ant-select-selector .ant-select-selection-item {
+  height: 40px;
+  line-height: 40px;
+}
+.bg :global .ant-input {
+  width: 400px;
+  height: 40px;
+  opacity: 1;
+  border-radius: 4px;
+  border: 1px solid #b8c4d1;
+}
+.bg .upimage {
+  max-width: 102px;
+  max-height: 102px;
+}
+.bg .textarea {
+  width: 400px;
+  height: 150px;
+  opacity: 1;
+  border-radius: 4px;
+  border: 1px solid #b8c4d1;
+  max-width: auto;
+}

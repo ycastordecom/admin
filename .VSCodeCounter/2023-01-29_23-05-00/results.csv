@@ -1,0 +1,94 @@
+"filename", "language", "TypeScript", "vue", "TypeScript React", "Less", "CSS", "comment", "blank", "total"
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/App.vue", "vue", 0, 18, 0, 0, 0, 0, 2, 20
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/api/axios.ts", "TypeScript", 56, 0, 0, 0, 0, 23, 7, 86
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/api/index.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 2, 2
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/api/menus.ts", "TypeScript", 6, 0, 0, 0, 0, 0, 2, 8
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/api/page/goods.ts", "TypeScript", 57, 0, 0, 0, 0, 8, 2, 67
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/api/page/index.ts", "TypeScript", 14, 0, 0, 0, 0, 0, 2, 16
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/api/page/login.ts", "TypeScript", 9, 0, 0, 0, 0, 0, 2, 11
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/api/page/order.ts", "TypeScript", 16, 0, 0, 0, 0, 2, 3, 21
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/api/page/user.ts", "TypeScript", 17, 0, 0, 0, 0, 2, 1, 20
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/api/request.ts", "TypeScript", 13, 0, 0, 0, 0, 4, 3, 20
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/good/addSpecifications.module.css", "CSS", 0, 0, 0, 0, 39, 0, 1, 40
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/good/addSpecifications.module.less", "Less", 0, 0, 0, 39, 0, 0, 7, 46
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/good/addSpecifications.tsx", "TypeScript React", 0, 0, 314, 0, 0, 36, 10, 360
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/good/editgood.module.css", "CSS", 0, 0, 0, 0, 50, 0, 1, 51
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/good/editgood.module.less", "Less", 0, 0, 0, 54, 0, 0, 8, 62
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/good/editgood.tsx", "TypeScript React", 0, 0, 168, 0, 0, 18, 2, 188
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/good/goodSpecificationsTable.css", "CSS", 0, 0, 0, 0, 3, 0, 1, 4
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/good/goodSpecificationsTable.module.less", "Less", 0, 0, 0, 3, 0, 1, 1, 5
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/good/goodSpecificationsTable.tsx", "TypeScript React", 0, 0, 91, 0, 0, 4, 6, 101
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/header.vue", "vue", 0, 181, 0, 0, 0, 0, 1, 182
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/index/close.module.css", "CSS", 0, 0, 0, 0, 25, 0, 1, 26
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/index/close.module.less", "Less", 0, 0, 0, 25, 0, 0, 2, 27
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/index/close.tsx", "TypeScript React", 0, 0, 21, 0, 0, 0, 2, 23
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/index/feedback.module.css", "CSS", 0, 0, 0, 0, 118, 0, 1, 119
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/index/feedback.module.less", "Less", 0, 0, 0, 120, 0, 0, 15, 135
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/index/feedback.tsx", "TypeScript React", 0, 0, 154, 0, 0, 2, 2, 158
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/index/makeUpCollection.module.css", "CSS", 0, 0, 0, 0, 46, 0, 1, 47
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/index/makeUpCollection.module.less", "Less", 0, 0, 0, 46, 0, 0, 5, 51
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/index/makeUpCollection.tsx", "TypeScript React", 0, 0, 106, 0, 0, 2, 5, 113
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/index/message.module.css", "CSS", 0, 0, 0, 0, 86, 0, 1, 87
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/index/message.module.less", "Less", 0, 0, 0, 86, 0, 1, 10, 97
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/index/message.tsx", "TypeScript React", 0, 0, 55, 0, 0, 0, 1, 56
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/kami/addPopWindow.module.css", "CSS", 0, 0, 0, 0, 33, 0, 1, 34
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/kami/addPopWindow.module.less", "Less", 0, 0, 0, 33, 0, 0, 4, 37
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/kami/addPopWindow.tsx", "TypeScript React", 0, 0, 35, 0, 0, 1, 4, 40
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/menu-item.vue", "vue", 0, 14, 0, 0, 0, 0, 1, 15
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/menus.vue", "vue", 0, 83, 0, 0, 0, 0, 5, 88
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/order/orderDetails.module.css", "CSS", 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/order/orderDetails.module.less", "Less", 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/order/orderDetails.tsx", "TypeScript React", 0, 0, 76, 0, 0, 2, 4, 82
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/order/orderEdit.module.css", "CSS", 0, 0, 0, 0, 21, 0, 1, 22
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/order/orderEdit.module.less", "Less", 0, 0, 0, 25, 0, 0, 2, 27
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/order/orderEdit.tsx", "TypeScript React", 0, 0, 35, 0, 0, 1, 2, 38
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/publicity/time.module.css", "CSS", 0, 0, 0, 0, 24, 0, 1, 25
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/publicity/time.module.less", "Less", 0, 0, 0, 24, 0, 0, 3, 27
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/publicity/time.tsx", "TypeScript React", 0, 0, 39, 0, 0, 0, 1, 40
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/shop/shopSubmit.module.css", "CSS", 0, 0, 0, 0, 75, 0, 1, 76
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/shop/shopSubmit.module.less", "Less", 0, 0, 0, 77, 0, 0, 10, 87
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/shop/shopSubmit.tsx", "TypeScript React", 0, 0, 48, 0, 0, 0, 2, 50
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/user/edit.module.css", "CSS", 0, 0, 0, 0, 10, 0, 1, 11
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/user/edit.module.less", "Less", 0, 0, 0, 14, 0, 0, 2, 16
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/components/user/edit.tsx", "TypeScript React", 0, 0, 113, 0, 0, 7, 2, 122
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/hooks/MerchandiseClassList.ts", "TypeScript", 19, 0, 0, 0, 0, 1, 3, 23
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/hooks/index.ts", "TypeScript", 252, 0, 0, 0, 0, 8, 9, 269
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/hooks/useMerchandiseList.ts", "TypeScript", 55, 0, 0, 0, 0, 10, 3, 68
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/main.ts", "TypeScript", 10, 0, 0, 0, 0, 0, 2, 12
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/registerServiceWorker.ts", "TypeScript", 31, 0, 0, 0, 0, 1, 3, 35
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/router/index.ts", "TypeScript", 125, 0, 0, 0, 0, 0, 4, 129
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/shims-vue.d.ts", "TypeScript", 13, 0, 0, 0, 0, 1, 1, 15
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/store/index.ts", "TypeScript", 3, 0, 0, 0, 0, 0, 3, 6
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/store/modules/user.ts", "TypeScript", 17, 0, 0, 0, 0, 0, 1, 18
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/type/image.d.ts", "TypeScript", 7, 0, 0, 0, 0, 3, 1, 11
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/type/index.d.ts", "TypeScript", 9, 0, 0, 0, 0, 0, 1, 10
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/type/menus.d.ts", "TypeScript", 6, 0, 0, 0, 0, 0, 1, 7
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/type/page/Merchandise.d.ts", "TypeScript", 104, 0, 0, 0, 0, 11, 10, 125
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/type/page/api.d.ts", "TypeScript", 5, 0, 0, 0, 0, 1, 1, 7
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/type/page/index.d.ts", "TypeScript", 20, 0, 0, 0, 0, 3, 1, 24
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/type/page/login.d.ts", "TypeScript", 17, 0, 0, 0, 0, 2, 1, 20
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/type/page/order.d.ts", "TypeScript", 67, 0, 0, 0, 0, 4, 7, 78
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/type/page/user.d.ts", "TypeScript", 42, 0, 0, 0, 0, 3, 5, 50
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/utils/index.ts", "TypeScript", 1, 0, 0, 0, 0, 0, 1, 2
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/Home.vue", "vue", 0, 50, 0, 0, 0, 0, 1, 51
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/Index.vue", "vue", 0, 446, 0, 0, 0, 0, 3, 449
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/KamiList 2.vue", "vue", 0, 3, 0, 0, 0, 0, 1, 4
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/KamiList.vue", "vue", 0, 3, 0, 0, 0, 0, 1, 4
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/Login.vue", "vue", 0, 173, 0, 0, 0, 0, 1, 174
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/Merchandise.vue", "vue", 0, 66, 0, 0, 0, 0, 2, 68
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/MerchandiseAdd.vue", "vue", 0, 366, 0, 0, 0, 0, 6, 372
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/MerchandiseClassAdd.vue", "vue", 0, 119, 0, 0, 0, 0, 2, 121
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/MerchandiseClassList.vue", "vue", 0, 189, 0, 0, 0, 3, 2, 194
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/MerchandiseList.vue", "vue", 0, 342, 0, 0, 0, 8, 6, 356
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/Order.vue", "vue", 0, 57, 0, 0, 0, 0, 2, 59
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/OrderList.vue", "vue", 0, 254, 0, 0, 0, 4, 3, 261
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/Publicity.vue", "vue", 0, 458, 0, 0, 0, 0, 3, 461
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/Register.vue", "vue", 0, 149, 0, 0, 0, 0, 1, 150
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/Shop.vue", "vue", 0, 60, 0, 0, 0, 0, 2, 62
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/ShopLink.vue", "vue", 0, 196, 0, 0, 0, 0, 1, 197
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/ShopSetup.vue", "vue", 0, 260, 0, 0, 0, 0, 2, 262
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/ShopSubmit.vue", "vue", 0, 392, 0, 0, 0, 0, 3, 395
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/Uppwd.vue", "vue", 0, 99, 0, 0, 0, 0, 3, 102
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/User.vue", "vue", 0, 57, 0, 0, 0, 0, 2, 59
+"/Users/ludekun/Library/Mobile Documents/com~apple~CloudDocs/旧代码/admin/src/views/UserMy.vue", "vue", 0, 307, 0, 0, 0, 4, 9, 320
+"Total", "-", 991, 4342, 1255, 546, 530, 181, 273, 8118
